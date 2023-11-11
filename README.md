@@ -1,13 +1,17 @@
 <h1 align="center">Hola 👋, Me llamo Vicente</h1>
 <h3 align="center">Soy un apasionado desarrollador Full Stack</h3>
 
-- 🌱 I’m currently learning **React,**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, Javascript, Python, Go, MySQL**
 
 - 📫 How to reach me **vperezc18@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Otros Proyectos: </h3>
+
+- <a href="https://gitlab.inf.utfsm.cl/vperez/inf225-2023-1-grupo12">Microservicios - Python - Sqlite3</a>
+
 <p align="left">
 </p>
 
