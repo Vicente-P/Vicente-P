@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, Me llamo Vicente</h1>
 <h3 align="center">Soy un apasionado desarrollador Full Stack</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Actualmente estoy aprendiendo **React**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Python, Go, MySQL**
+- 💬 Puedes preguntarme sobre **HTML, CSS, Javascript, Python, Go, MySQL**
 
-- 📫 How to reach me **vperezc18@gmail.com**
+- 📫 Como llegar a mi **vperezc18@gmail.com**
 
 
 <h3 align="left">Otros Proyectos: </h3>
