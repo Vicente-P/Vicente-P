@@ -8,7 +8,7 @@
 - 📫 Como llegar a mi **vperezc18@gmail.com**
 
 
-<h3 align="left">Otros Proyectos: </h3>
+<h3 align="left">Mis Proyectos: </h3>
 
 - <a href="https://gitlab.inf.utfsm.cl/vperez/inf225-2023-1-grupo12">Microservicios - Python - Sqlite3</a>
 
