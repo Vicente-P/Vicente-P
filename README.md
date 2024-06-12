@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Java y Spring Boot**
 
-- 💬 Puedes preguntarme sobre **HTML, CSS, Javascript, Python, Go, MySQL**
+- 💬 Puedes preguntarme sobre **HTML, CSS, Javascript, Java, MySQL**
 
 - 📫 Como llegar a mi **vperezc18@gmail.com**
 
