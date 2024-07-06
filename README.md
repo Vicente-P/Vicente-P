@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Vicente</h1>
-<h3 align="center">Soy un apasionado desarrollador Full Stack</h3>
+<h3 align="center">Soy un apasionado desarrollador Backend</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Java y Spring Boot**
 
